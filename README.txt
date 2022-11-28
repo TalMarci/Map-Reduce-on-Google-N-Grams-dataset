@@ -1,4 +1,4 @@
-DSP-202 Hadoop Map-Reduce  Eitan Tshernihovsky and Tal Marciano
+Hadoop Map-Reduce by Tal Marciano and Eitan Tshernihovsky.
 
 In this project, we designed a Map-Reduce system built on the AWS EMR (student) environment using Hadoop.
 The mission was to process big data (Hebrew literature from the Google N-Grams dataset) and calculate the probability P(W3 | W1, W2) for each of the word triplets (W1, W2, W3) we observed in the data.
